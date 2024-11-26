@@ -1,0 +1,14 @@
+D:\ThucTap\ICD\nangCaoC\nangCaoC\bin\Debug\nangCaoC.exe.config
+D:\ThucTap\ICD\nangCaoC\nangCaoC\bin\Debug\nangCaoC.exe
+D:\ThucTap\ICD\nangCaoC\nangCaoC\bin\Debug\nangCaoC.pdb
+D:\ThucTap\ICD\nangCaoC\nangCaoC\obj\Debug\nangCaoC.csproj.AssemblyReference.cache
+D:\ThucTap\ICD\nangCaoC\nangCaoC\obj\Debug\nangCaoC.csproj.CoreCompileInputs.cache
+D:\ThucTap\ICD\nangCaoC\nangCaoC\obj\Debug\nangCaoC.exe
+D:\ThucTap\ICD\nangCaoC\nangCaoC\obj\Debug\nangCaoC.pdb
+D:\ThucTap\SSD\nangCaoC\nangCaoC\bin\Debug\nangCaoC.exe.config
+D:\ThucTap\SSD\nangCaoC\nangCaoC\bin\Debug\nangCaoC.exe
+D:\ThucTap\SSD\nangCaoC\nangCaoC\bin\Debug\nangCaoC.pdb
+D:\ThucTap\SSD\nangCaoC\nangCaoC\obj\Debug\nangCaoC.csproj.AssemblyReference.cache
+D:\ThucTap\SSD\nangCaoC\nangCaoC\obj\Debug\nangCaoC.csproj.CoreCompileInputs.cache
+D:\ThucTap\SSD\nangCaoC\nangCaoC\obj\Debug\nangCaoC.exe
+D:\ThucTap\SSD\nangCaoC\nangCaoC\obj\Debug\nangCaoC.pdb
